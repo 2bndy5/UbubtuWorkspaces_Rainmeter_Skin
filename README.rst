@@ -17,10 +17,31 @@ UbubtuWorkspaces
 
 This is the home for developing UbubtuWorkspaces, a Rainmeter skin to display Windows Virtual Desktops in a panel similar to a GNOME Desktop plugin.
 
+**Minimized**
+
+.. image:: minimized.png
+
+**Maximized**
+
+.. image:: maximized.png
+
+Features
+~~~~~~~~
+
+- Uses Windows theme color automatically
+- The animation can be disabled leaving the panel in a minimized/maximized state
+- Grabs a screenshot of the currently active Virtual Desktop every 2 seconds (for thumbnail preview in maximized state)
+
 Rainmeter required
 ##################
 
 The minimum required version of Rainmeter is 4.5.0.17, but the `latest stable release <https://www.rainmeter.net>`_ is recommended.
+
+Additional requirements
+~~~~~~~~~~~~~~~~~~~~~~~
+
+This skin uses the `RadAd's VirtualDesktop Rainmeter plugin <https://github.com/RadAd/RMVirtualDesktop>`_.
+Thus, this skin ships with a copy of the `RadAd/RMVirtualDesktop v1.3.2 release <https://github.com/RadAd/RMVirtualDesktop/releases/tag/v1.3.2>`_.
 
 Package Installer
 #################
