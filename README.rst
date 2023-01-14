@@ -1,8 +1,8 @@
-.. image:: https://github.com/2bndy5/UbubtuWorkspaces_Rainmeter_Skin/workflows/Anti-virus%20Check/badge.svg
-    :target: https://github.com/2bndy5/UbubtuWorkspaces_Rainmeter_Skin/actions?query=workflow%3A%22Anti-virus+Check%22
+.. image:: https://github.com/2bndy5/UbubtuWorkspaces_Rainmeter_Skin/actions/workflows/AVscan.yml/badge.svg
+    :target: https://github.com/2bndy5/UbubtuWorkspaces_Rainmeter_Skin/actions/workflows/AVscan.yml
 
-.. image:: https://github.com/2bndy5/UbubtuWorkspaces_Rainmeter_Skin/workflows/RMSKIN%20Packager/badge.svg
-    :target: https://github.com/2bndy5/UbubtuWorkspaces_Rainmeter_Skin/actions?query=workflow%3A%22RMSKIN+Packager%22
+.. image:: https://github.com/2bndy5/UbubtuWorkspaces_Rainmeter_Skin/actions/workflows/build.yml/badge.svg
+    :target: https://github.com/2bndy5/UbubtuWorkspaces_Rainmeter_Skin/actions/workflows/build.yml
 
 .. image:: https://img.shields.io/github/v/release/rainmeter/rainmeter?label=Rainmeter&style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2LjM1IDYuMzUiIGhlaWdodD0iMjQiIHdpZHRoPSIyNCI+PHRleHQgeT0iNi4zNSIgc3R5bGU9ImxpbmUtaGVpZ2h0OjEuMjU7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjonU2Vnb2UgTURMMiBBc3NldHMnIiBmb250LXNpemU9IjYuMzUiIGZvbnQtZmFtaWx5PSJTZWdvZSBNREwyIEFzc2V0cyIgZmlsbD0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIuMjY1Ij48dHNwYW4geT0iNi4zNSIgeD0iMCI+7q2CPC90c3Bhbj48L3RleHQ+PC9zdmc+
     :alt: Rainmeter Required (latest stable)
