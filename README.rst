@@ -17,13 +17,13 @@ UbubtuWorkspaces
 
 This is the home for developing UbubtuWorkspaces, a Rainmeter skin to display Windows Virtual Desktops in a panel similar to a GNOME Desktop plugin.
 
-**Minimized**
+.. |maximized| image:: maximized.png
+.. |minimized| image:: minimized.png
 
-.. image:: minimized.png
+.. csv-table::
+    :header: Maximized, Minimized
 
-**Maximized**
-
-.. image:: maximized.png
+    |maximized|,|minimized|
 
 Features
 ~~~~~~~~
