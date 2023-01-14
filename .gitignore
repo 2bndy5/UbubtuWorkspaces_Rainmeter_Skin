@@ -1,3 +1,12 @@
 # ignore VS Code settings folder
 .vscode/
+
+# ignore rmskin build artifacts
+build/
 *.rmskin
+
+# ignore python venv
+.env/
+env/
+.venv/
+venv/
