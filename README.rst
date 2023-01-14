@@ -31,6 +31,8 @@ Features
 - Uses Windows theme color automatically
 - The animation can be disabled leaving the panel in a minimized/maximized state
 - Grabs a screenshot of the currently active Virtual Desktop every 2 seconds (for thumbnail preview in maximized state)
+- The mouse scroll wheel can be used to switch between Virtual Desktops when mouse is hovering over the skin
+- Customize the maximum/minimum size of desktop selectors (as a percentage in the ``[max/min]ThumbRatio`` variables)
 
 Rainmeter required
 ##################
